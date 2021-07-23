@@ -1,0 +1,16 @@
+﻿07/22/2021 21:16:45 Bot exceution start.
+07/22/2021 21:16:55 Config read complete.
+07/22/2021 21:16:59 Killed all the reqired processes.
+07/22/2021 21:33:12 Sending status mail with status report and closing bot.
+07/23/2021 12:47:25 Bot exceution start.
+07/23/2021 12:47:26 Config read complete.
+07/23/2021 12:47:26 Killed all the reqired processes.
+07/23/2021 12:55:32 Sending status mail with status report and closing bot.
+07/23/2021 12:57:31 Bot exceution start.
+07/23/2021 12:57:31 Config read complete.
+07/23/2021 12:57:31 Killed all the reqired processes.
+07/23/2021 13:00:16 Sending status mail with status report and closing bot.
+07/23/2021 13:09:25 Bot exceution start.
+07/23/2021 13:09:25 Config read complete.
+07/23/2021 13:09:26 Killed all the reqired processes.
+07/23/2021 13:14:46 Sending status mail with status report and closing bot.
